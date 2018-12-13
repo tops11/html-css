@@ -1,0 +1,19 @@
+{
+  "name": "html-css",
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get your application up and running.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://zaakzaku@bitbucket.org/zaakzaku/html-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/zaakzaku/html-css#readme",
+  "devDependencies": {
+    "eslint-plugin-css-modules": "^2.10.0"
+  }
+}
